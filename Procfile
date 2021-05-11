@@ -1,1 +1,1 @@
-web: gunicorn Newfolder:app
+web: gunicorn app:app
